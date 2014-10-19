@@ -1,10 +1,10 @@
 
 {
-    "name": "codeguy/arachnid",
+    "name": "flakerimi/arachnid",
     "type": "library",
     "description": "A crawler to find all unique internal pages on a given website",
     "keywords": ["crawl","spider","search","scrape"],
-    "homepage": "http://github.com/codeguy/arachnid",
+    "homepage": "http://github.com/flakerimi/arachnid",
     "license": "MIT",
     "authors": [
         {
@@ -14,6 +14,10 @@
         {
             "name": "Zeid Rashwani",
             "homepage": "http://zrashwani.com"
+        },
+        {
+            "name": "Flakerim Ismani",
+            "homepage": "http://urbanway.net"
         }
     ],
     "require": {
